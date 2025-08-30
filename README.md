@@ -35,12 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aayush-innovates&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-innovates&theme=tokyonight&hide_border=false)  
 
-
----
-
-# ✨ Fun Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 # 🏆 GitHub Trophies:
@@ -53,3 +47,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=6)](https://visitcount.itsvg.in)
+
+---
+# ✨ Fun Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
