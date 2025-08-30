@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aayush!  
+👋 Hi, I'm Aayush Vijay Sadaye!  
 💻 Passionate developer with a love for building impactful software solutions.  
 🚀 Exploring new technologies, creating scalable applications, and constantly learning.  
 🤝 Open to collaborations in web development, AI, and innovative tech projects.  
