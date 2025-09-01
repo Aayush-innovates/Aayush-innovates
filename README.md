@@ -50,7 +50,7 @@
 ---
 
 # 👀 Profile Views
-![Profile Views](https://profile-counter.glitch.me/Aayush-innovates/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Aayush-innovates&style=for-the-badge&color=blue)
 
 ---
 
