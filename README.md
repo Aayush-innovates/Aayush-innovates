@@ -40,7 +40,7 @@
 ---
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aayush-innovates&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -48,8 +48,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aayush-innovates&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=6)](https://visitcount.itsvg.in)
+
+# 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=Aayush-innovates&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
+
 # ✨ Fun Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
