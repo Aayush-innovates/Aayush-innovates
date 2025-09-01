@@ -50,7 +50,8 @@
 ---
 
 # 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Aayush-innovates&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Aayush-innovates/readme)
+
 
 ---
 
