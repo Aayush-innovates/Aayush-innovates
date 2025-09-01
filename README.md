@@ -50,8 +50,7 @@
 ---
 
 # 👀 Profile Views
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Aayush-innovates/readme)
-
+![Profile Views](https://profile-counter.glitch.me/Aayush-innovates/count.svg)
 
 ---
 
